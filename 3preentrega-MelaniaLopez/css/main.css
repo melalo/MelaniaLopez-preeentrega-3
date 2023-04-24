@@ -1,0 +1,15 @@
+body{font-size: .85rem;}
+header{height: 125px;}
+h1 img{width: 90px;}
+.card{ width: 250px ; height: auto; border: 1px solid #999; padding: 10px; display: inline-block;margin: 0 5px;}
+.card img{ width: 100%; border-radius: 5px;}
+.card .card-footer {border-top: 1px dashed #009182; background-color: #eaf8f7;}
+.cart-wrapper {   position: fixed; top:1px; right:1px; width: 250px; padding: .5rem; border: 1px solid #dee2e6; background: #fff;}
+.comprar-ahora{margin-bottom: 1rem;}
+.cart-buy { padding-bottom: 5px;}
+.cart-buy strong {display: block;}
+.chosen-item { background: #eaf8f7; width: 100%; border-radius: 3px; padding: .5rem; margin-bottom: .5rem;}
+.chosen-item + .chosen-item {margin-top: 5px;}
+h3{font-size: 16px;}
+.chosen-item p{margin-bottom: 2px;}
+.chosen-item:last-child{margin-bottom: 0;}
